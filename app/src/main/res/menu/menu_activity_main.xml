@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/createSection"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="создать заказ" />
+
+    <item
+        android:id="@+id/myRequestsSection"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="мои запросы" />
+
+    <item
+        android:id="@+id/profileSection"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Профиль" />
+
+</menu>
