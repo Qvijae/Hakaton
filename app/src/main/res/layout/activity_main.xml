@@ -21,9 +21,10 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:onItemSelected=""
-        app:itemBackground="@color/design_default_color_primary"
         app:itemIconTint="#fff"
         app:itemTextColor="#fff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:menu="@menu/menu_activity_main" />
 
 </RelativeLayout>

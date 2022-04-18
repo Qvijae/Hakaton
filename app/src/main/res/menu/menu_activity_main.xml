@@ -3,17 +3,17 @@
 
     <item
         android:id="@+id/createSection"
-        android:icon="@drawable/ic_launcher_foreground"
-        android:title="создать" />
+        android:icon="@drawable/g"
+        android:title="Создать" />
 
     <item
         android:id="@+id/myRequestsSection"
-        android:icon="@drawable/ic_launcher_foreground"
-        android:title="мои запросы" />
+        android:icon="@drawable/star"
+        android:title="Заказы" />
 
     <item
         android:id="@+id/profileSection"
-        android:icon="@drawable/ic_launcher_foreground"
+        android:icon="@drawable/profile"
         android:title="Профиль" />
 
 </menu>
