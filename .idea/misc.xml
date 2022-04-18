@@ -11,7 +11,11 @@
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hakaton/app/src/main/res/layout/create_request_fragment.xml" value="0.561141304347826" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hakaton/app/src/main/res/layout/edit_request.xml" value="0.4759963768115942" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hakaton/app/src/main/res/layout/edit_request_fragment.xml" value="0.561141304347826" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/Hakaton/app/src/main/res/layout/fragment_profile_auth.xml" value="0.5661231884057971" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Hakaton/app/src/main/res/layout/fragment_profile_auth.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Hakaton/app/src/main/res/layout/fragment_registration.xml" value="0.561141304347826" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Hakaton/app/src/main/res/layout/fragment_tutorial_1.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Hakaton/app/src/main/res/layout/fragment_tutorial_2.xml" value="0.5" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Hakaton/app/src/main/res/layout/fragment_tutorial_3.xml" value="0.561141304347826" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hakaton/app/src/main/res/layout/profile.xml" value="0.4759963768115942" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hakaton/app/src/main/res/layout/profile_fragment.xml" value="0.561141304347826" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Hakaton/app/src/main/res/layout/requests.xml" value="0.4759963768115942" />
