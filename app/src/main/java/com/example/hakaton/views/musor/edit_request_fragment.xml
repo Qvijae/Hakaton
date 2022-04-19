@@ -4,12 +4,17 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+
     <data>
 
         <variable
             name="viewModel"
             type="com.example.hakaton.viewmodels.EditRequestViewModel" />
     </data>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
 
     <EditText
         android:id="@+id/editTextTextPersonName3"
@@ -62,4 +67,5 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="удалить" />
+    </LinearLayout>
 </layout>
